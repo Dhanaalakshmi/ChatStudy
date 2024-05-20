@@ -1,5 +1,7 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
+NAME:DHANA LAKSHMI A
 
+REG NO:212223040033
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
